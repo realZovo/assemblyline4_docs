@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>.</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/"/>
+         
+    </url>
+    <url>
+         <loc>administration/service_management/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/administration/service_management/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/administration/service_management/"/>
+         
+    </url>
+    <url>
+         <loc>administration/signature_management/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/administration/signature_management/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/administration/signature_management/"/>
+         
+    </url>
+    <url>
+         <loc>administration/source_management/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/administration/source_management/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/administration/source_management/"/>
+         
+    </url>
+    <url>
+         <loc>administration/system_safelist/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/administration/system_safelist/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/administration/system_safelist/"/>
+         
+    </url>
+    <url>
+         <loc>administration/troubleshooting/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/administration/troubleshooting/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/administration/troubleshooting/"/>
+         
+    </url>
+    <url>
+         <loc>administration/user_management/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/administration/user_management/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/administration/user_management/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/core/infrastructure/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/core/infrastructure/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/core/infrastructure/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/docs/docs/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/docs/docs/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/docs/docs/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/env/getting_started/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/env/getting_started/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/env/getting_started/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/env/pycharm/local_development/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/env/pycharm/local_development/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/env/pycharm/local_development/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/env/pycharm/remote_development/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/env/pycharm/remote_development/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/env/pycharm/remote_development/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/env/pycharm/use_pycharm/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/env/pycharm/use_pycharm/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/env/pycharm/use_pycharm/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/env/vscode/setup_script/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/env/vscode/setup_script/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/env/vscode/setup_script/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/env/vscode/use_vscode/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/env/vscode/use_vscode/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/env/vscode/use_vscode/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/frontend/frontend/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/frontend/frontend/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/frontend/frontend/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/services/adding_a_service_updater/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/services/adding_a_service_updater/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/services/adding_a_service_updater/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/services/developing_an_assemblyline_service/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/services/developing_an_assemblyline_service/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/services/developing_an_assemblyline_service/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/services/run_your_service/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/services/run_your_service/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/services/run_your_service/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/services/advanced/request/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/services/advanced/request/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/services/advanced/request/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/services/advanced/result/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/services/advanced/result/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/services/advanced/result/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/services/advanced/result_section/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/services/advanced/result_section/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/services/advanced/result_section/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/services/advanced/service_base/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/services/advanced/service_base/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/services/advanced/service_base/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/services/advanced/service_manifest/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/services/advanced/service_manifest/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/services/advanced/service_manifest/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/services/advanced/service_updater_base/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/services/advanced/service_updater_base/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/services/advanced/service_updater_base/"/>
+         
+    </url>
+    <url>
+         <loc>developer_manual/services/advanced/service_updater_upgrade/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/developer_manual/services/advanced/service_updater_upgrade/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/developer_manual/services/advanced/service_updater_upgrade/"/>
+         
+    </url>
+    <url>
+         <loc>installation/classification_engine/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/classification_engine/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/classification_engine/"/>
+         
+    </url>
+    <url>
+         <loc>installation/deployment/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/deployment/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/deployment/"/>
+         
+    </url>
+    <url>
+         <loc>installation/deployment_migration/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/deployment_migration/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/deployment_migration/"/>
+         
+    </url>
+    <url>
+         <loc>installation/monitoring/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/monitoring/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/monitoring/"/>
+         
+    </url>
+    <url>
+         <loc>installation/replay/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/replay/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/replay/"/>
+         
+    </url>
+    <url>
+         <loc>installation/appliance/docker/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/appliance/docker/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/appliance/docker/"/>
+         
+    </url>
+    <url>
+         <loc>installation/appliance/kubernetes-microk8s/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/appliance/kubernetes-microk8s/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/appliance/kubernetes-microk8s/"/>
+         
+    </url>
+    <url>
+         <loc>installation/cluster/general/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/cluster/general/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/cluster/general/"/>
+         
+    </url>
+    <url>
+         <loc>installation/cluster/microk8s/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/cluster/microk8s/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/cluster/microk8s/"/>
+         
+    </url>
+    <url>
+         <loc>installation/configuration/authentication/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/configuration/authentication/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/configuration/authentication/"/>
+         
+    </url>
+    <url>
+         <loc>installation/configuration/config_file/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/configuration/config_file/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/configuration/config_file/"/>
+         
+    </url>
+    <url>
+         <loc>installation/configuration/core/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/configuration/core/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/configuration/core/"/>
+         
+    </url>
+    <url>
+         <loc>installation/configuration/datasources/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/configuration/datasources/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/configuration/datasources/"/>
+         
+    </url>
+    <url>
+         <loc>installation/configuration/datastore/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/configuration/datastore/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/configuration/datastore/"/>
+         
+    </url>
+    <url>
+         <loc>installation/configuration/filestore/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/configuration/filestore/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/configuration/filestore/"/>
+         
+    </url>
+    <url>
+         <loc>installation/configuration/logging/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/configuration/logging/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/configuration/logging/"/>
+         
+    </url>
+    <url>
+         <loc>installation/configuration/services/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/configuration/services/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/configuration/services/"/>
+         
+    </url>
+    <url>
+         <loc>installation/configuration/submission/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/configuration/submission/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/configuration/submission/"/>
+         
+    </url>
+    <url>
+         <loc>installation/configuration/system/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/configuration/system/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/configuration/system/"/>
+         
+    </url>
+    <url>
+         <loc>installation/configuration/ui/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/installation/configuration/ui/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/installation/configuration/ui/"/>
+         
+    </url>
+    <url>
+         <loc>integration/ingestion_method/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/integration/ingestion_method/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/integration/ingestion_method/"/>
+         
+    </url>
+    <url>
+         <loc>integration/java/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/integration/java/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/integration/java/"/>
+         
+    </url>
+    <url>
+         <loc>integration/key_generation/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/integration/key_generation/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/integration/key_generation/"/>
+         
+    </url>
+    <url>
+         <loc>integration/python/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/integration/python/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/integration/python/"/>
+         
+    </url>
+    <url>
+         <loc>integration/rest/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/integration/rest/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/integration/rest/"/>
+         
+    </url>
+    <url>
+         <loc>odm/getting_started/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/getting_started/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/getting_started/"/>
+         
+    </url>
+    <url>
+         <loc>odm/messages/alert/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/messages/alert/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/messages/alert/"/>
+         
+    </url>
+    <url>
+         <loc>odm/messages/alerter_heartbeat/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/messages/alerter_heartbeat/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/messages/alerter_heartbeat/"/>
+         
+    </url>
+    <url>
+         <loc>odm/messages/archive_heartbeat/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/messages/archive_heartbeat/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/messages/archive_heartbeat/"/>
+         
+    </url>
+    <url>
+         <loc>odm/messages/dispatcher_heartbeat/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/messages/dispatcher_heartbeat/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/messages/dispatcher_heartbeat/"/>
+         
+    </url>
+    <url>
+         <loc>odm/messages/dispatching/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/messages/dispatching/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/messages/dispatching/"/>
+         
+    </url>
+    <url>
+         <loc>odm/messages/expiry_heartbeat/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/messages/expiry_heartbeat/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/messages/expiry_heartbeat/"/>
+         
+    </url>
+    <url>
+         <loc>odm/messages/ingest_heartbeat/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/messages/ingest_heartbeat/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/messages/ingest_heartbeat/"/>
+         
+    </url>
+    <url>
+         <loc>odm/messages/metrics/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/messages/metrics/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/messages/metrics/"/>
+         
+    </url>
+    <url>
+         <loc>odm/messages/scaler_heartbeat/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/messages/scaler_heartbeat/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/messages/scaler_heartbeat/"/>
+         
+    </url>
+    <url>
+         <loc>odm/messages/scaler_status_heartbeat/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/messages/scaler_status_heartbeat/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/messages/scaler_status_heartbeat/"/>
+         
+    </url>
+    <url>
+         <loc>odm/messages/service_heartbeat/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/messages/service_heartbeat/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/messages/service_heartbeat/"/>
+         
+    </url>
+    <url>
+         <loc>odm/messages/service_timing_heartbeat/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/messages/service_timing_heartbeat/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/messages/service_timing_heartbeat/"/>
+         
+    </url>
+    <url>
+         <loc>odm/messages/submission/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/messages/submission/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/messages/submission/"/>
+         
+    </url>
+    <url>
+         <loc>odm/messages/task/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/messages/task/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/messages/task/"/>
+         
+    </url>
+    <url>
+         <loc>odm/messages/vacuum_heartbeat/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/messages/vacuum_heartbeat/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/messages/vacuum_heartbeat/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/alert/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/alert/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/alert/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/cached_file/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/cached_file/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/cached_file/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/config/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/config/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/config/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/emptyresult/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/emptyresult/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/emptyresult/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/error/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/error/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/error/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/file/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/file/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/file/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/filescore/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/filescore/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/filescore/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/heuristic/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/heuristic/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/heuristic/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/replay/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/replay/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/replay/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/result/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/result/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/result/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/safelist/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/safelist/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/safelist/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/service/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/service/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/service/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/service_delta/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/service_delta/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/service_delta/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/signature/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/signature/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/signature/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/statistics/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/statistics/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/statistics/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/submission/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/submission/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/submission/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/submission_summary/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/submission_summary/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/submission_summary/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/submission_tree/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/submission_tree/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/submission_tree/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/tagging/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/tagging/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/tagging/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/user/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/user/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/user/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/user_favorites/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/user_favorites/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/user_favorites/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/user_settings/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/user_settings/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/user_settings/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/workflow/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/workflow/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/workflow/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/ontology/ontology/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/ontology/ontology/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/ontology/ontology/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/ontology/filetypes/pe/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/ontology/filetypes/pe/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/ontology/filetypes/pe/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/ontology/results/antivirus/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/ontology/results/antivirus/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/ontology/results/antivirus/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/ontology/results/network/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/ontology/results/network/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/ontology/results/network/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/ontology/results/process/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/ontology/results/process/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/ontology/results/process/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/ontology/results/sandbox/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/ontology/results/sandbox/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/ontology/results/sandbox/"/>
+         
+    </url>
+    <url>
+         <loc>odm/models/ontology/results/signature/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/odm/models/ontology/results/signature/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/odm/models/ontology/results/signature/"/>
+         
+    </url>
+    <url>
+         <loc>overview/community_services/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/overview/community_services/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/overview/community_services/"/>
+         
+    </url>
+    <url>
+         <loc>overview/how_it_works/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/overview/how_it_works/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/overview/how_it_works/"/>
+         
+    </url>
+    <url>
+         <loc>overview/services/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/overview/services/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/overview/services/"/>
+         
+    </url>
+    <url>
+         <loc>user_manual/results/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/user_manual/results/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/user_manual/results/"/>
+         
+    </url>
+    <url>
+         <loc>user_manual/searching/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/user_manual/searching/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/user_manual/searching/"/>
+         
+    </url>
+    <url>
+         <loc>user_manual/submitting_file/</loc>
+         <lastmod>2022-06-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="en/user_manual/submitting_file/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="fr/user_manual/submitting_file/"/>
+         
+    </url>
+</urlset>
